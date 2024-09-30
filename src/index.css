@@ -1,0 +1,19 @@
+
+.App {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  margin: 50px auto;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+input[type="text"] {
+  width: 70%;
+  padding: 5px;
+  margin-right: 10px;
+}
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
